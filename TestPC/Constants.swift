@@ -6,3 +6,9 @@
 //
 
 import Foundation
+
+struct Constants {
+    struct Api {
+        static let serverUrl = "https://jsonplaceholder.typicode.com"
+    }
+}
